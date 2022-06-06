@@ -1,3 +1,9 @@
+# Personal dotfiles
+
+**Warning**: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
+
+### Switch To Lua
+
 ## fish screenshot 
 <img width="1018" alt="Screen Shot 2022-06-06 at 5 05 25 PM" src="https://user-images.githubusercontent.com/26252304/172210117-05d83b4f-07ab-44cd-b9f3-920cd0ebe708.png">
 
@@ -5,18 +11,6 @@
 ## nvim screenshot 
 <img width="1792" alt="Screen Shot 2022-06-06 at 4 11 48 PM" src="https://user-images.githubusercontent.com/26252304/172210202-3d38d41d-9ac2-4168-9b35-08d2df322470.png">
 
-
-# Personal dotfiles
-
-**Warning**: Don’t blindly use my settings unless you know what that entails. Use at your own risk!
-
-### Just Swicthed To Lua
-
-
-## Contents
-
-- [Theme OneDark](https://github.com/joshdick/onedark.vim)
-- [Plugins are managed with Packer](https://github.com/wbthomason/packer.nvim)
 
 ## Vim setup
 
